@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TEST-App</string>
+    <string name="btn_main_setting">ตั้งค่า</string>
+    <string name="tv_setting_spin">หมวดหมู่</string>
+</resources>
